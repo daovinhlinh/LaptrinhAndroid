@@ -30,7 +30,6 @@
         android:text="TextView"
         app:layout_constraintStart_toEndOf="@+id/name"
         app:layout_constraintTop_toTopOf="parent"
-
         />
 
     <TextView
